@@ -107,13 +107,7 @@
 
 
 
-## 🏅 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anshikadwivedi21&theme=flat&no-frame=true&margin-w=10&row=1&column=6" />
-</p>
-
----
 
 ## ✨ Let’s Collaborate!
 
