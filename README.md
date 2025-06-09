@@ -52,6 +52,13 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=surajjaiswar2003&label=Profile%20views&color=0e75b6&style=flat" alt="surajjaiswar2003" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surajjaiswar2003" alt="surajjaiswar2003" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+ ---
 
 ## 🧠 Currently Exploring
 
@@ -96,15 +103,7 @@
 
 ---
 
-## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshikadwivedi21&show_icons=true&theme=default&hide_border=false" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshikadwivedi21&theme=default&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshikadwivedi21&layout=compact&theme=default&hide_border=false" />
-</p>
-
----
 
 ## 🏅 GitHub Trophies
 
