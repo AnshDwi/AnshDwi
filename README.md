@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Anshika Dwivedi</h1>
+<h1 align="center">👋 Hi, I'm Anshika </h1>
 
 <p align="center">
   🎓 <b>B.Tech in Computer Engineering (Data Sciences)</b> <br>
