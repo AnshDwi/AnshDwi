@@ -17,6 +17,15 @@
 </p>
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=surajjaiswar2003&label=Profile%20views&color=0e75b6&style=flat" alt="surajjaiswar2003" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surajjaiswar2003" alt="surajjaiswar2003" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+
+
+
 <h3 align="left">💻 Tech Stack:</h3>
 <p align="left">
 <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
