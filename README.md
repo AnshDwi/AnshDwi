@@ -11,16 +11,11 @@
 </p>
 
 ---
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surajjaiswar2003" alt="surajjaiswar2003" /></a> </p>
 <h3 align="left">🌐 Socials:</h3>
 <p align="left">
-
-<h3 align="left">🌐 Socials:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/suraj-jaiswar-7007251b6" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="suraj-jaiswar-7007251b6" /></a>
+<a href="https://linkedin.com/in/suraj-jaiswar-7007251b6" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="anshika-dwivedi-319b75220" /></a>
 </p>
 
-?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
 
 <h3 align="left">💻 Tech Stack:</h3>
 <p align="left">
