@@ -6,6 +6,8 @@
 
 ---
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=surajjaiswar2003&label=Profile%20views&color=0e75b6&style=flat" alt="surajjaiswar2003" /> </p>
+
 ## 🔧 Technical Skills
 
 - **Languages:** Java, Python, C, HTML/CSS  
