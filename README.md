@@ -1,9 +1,12 @@
-<h1 align="center">👋 Hi, I'm Anshika </h1>
+<h1 align="center">✨ Hi there, I'm Anshika 👋</h1>
 
 <p align="center">
-  🎓 <b>B.Tech in Computer Engineering (Data Sciences)</b> <br>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" /> 
+  <b>B.Tech in Computer Engineering (Data Sciences)</b>  
+</p>
+<p align="center">
   📍 Navi Mumbai, Maharashtra <br>
-  💼 Aspiring Software Developer | ML Enthusiast | Frontend & Full Stack Explorer | Cyber Security  Enthusiast 
+  💼 Aspiring Software Developer | ML Enthusiast | Full Stack Explorer | Cyber Security Enthusiast
 </p>
 
 <p align="center">
@@ -11,57 +14,25 @@
 </p>
 
 ---
-<h3 align="left">🌐 Socials:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anshika-dwivedi-319b75220" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="anshika-dwivedi-319b75220" /></a>
-</p>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=surajjaiswar2003&label=Profile%20views&color=0e75b6&style=flat" alt="surajjaiswar2003" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surajjaiswar2003" alt="surajjaiswar2003" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-
-
-
-<h3 align="left">💻 Tech Stack:</h3>
-<p align="left">
-<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
-<img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native"/>
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/github-actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-<img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
-<img src="https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-<img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal"/>
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache"/>
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/>
-<img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop"/>
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</p>
-
 
 ## 🌐 Connect with Me
-
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/anshika-dwivedi-319b75220" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:anshikadwivedi2004@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://hackerrank.com/anshikadwivedi21" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
   </a>
+</p>
+
+---
+
+## 💻 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,html,css,mongodb,mysql,c,flask,docker,git,github,photoshop,canva,powershell,aws" />
 </p>
 
 ---
@@ -69,67 +40,73 @@
 ## 🛠️ Technical Skills
 
 - **Languages:** Java, Python, C, HTML/CSS  
-- **Frameworks & Libraries:** Tailwind CSS, React.js, Express.js, Flask  
-- **Tools & Platforms:** SQL, Power BI, Git & GitHub  
-- **Technologies:** Machine Learning, CNNs, MERN Stack  
+- **Frameworks & Libraries:** React.js, Tailwind CSS, Express.js, Flask  
+- **Tools & Platforms:** Git & GitHub, SQL, Power BI  
+- **Technologies:** Machine Learning, CNNs, MERN Stack
 
 ---
 
-## 💻 Projects
+## 🚀 Projects
 
-### 🎬 [After Movie Research App](#)
+### 🎬 After Movie Research App
 **Tech Stack:** *React, JavaScript, Tailwind*  
-🔍 A dynamic app for discovering movies by title, genre, director, or actor, with features for favorites and personalized recommendations.
+🔍 Discover movies by title, genre, director, or actor with features like favorites and smart recommendations.
 
-### 📖 [Bibliotek - Academic as Flamboyant](#)
+### 📖 Bibliotek - Academic as Flamboyant
 **Tech Stack:** *MERN Stack, Tailwind*  
-📚 A learning portal for managing attendance, document uploads, and real-time academic announcements.
+📚 A centralized academic portal for attendance, document uploads, and live announcements.
 
-### 🔢 [Handwritten Digit Classifier](#)
+### 🔢 Handwritten Digit Classifier
 **Tech Stack:** *Python, TensorFlow, Flask*  
-🖌️ A real-time digit recognition system using a CNN and an interactive Flask UI with a drawable canvas.
+🖌️ A real-time digit recognition system with CNN and a drawable canvas Flask UI.
 
 ---
 
-## 📜 Certifications
+## 🏅 Certifications
 
-- 🏅 HackerRank Java (Basic)  
-- 🏅 HackerRank SQL (Bronze Badge)  
-- 🏅 Analytics Vidhya: Python  
-- 🏅 AWS Academy: Cloud Architecting  
-- 🏅 101 Blockchains: Blockchain Fundamentals  
-- 🏅 SimplyLearn: Power BI  
-- 🏅 Forage: Software Engineering & BI Simulations  
+- 🧠 HackerRank Java (Basic)
+- 📊 HackerRank SQL (Bronze Badge)
+- 🐍 Analytics Vidhya – Python
+- ☁️ AWS Academy – Cloud Architecting
+- 🔗 101 Blockchains – Blockchain Fundamentals
+- 📈 SimplyLearn – Power BI
+- 💻 Forage – Software Engineering & BI Simulations
 
 ---
 
-## 🚀 Currently Exploring
+## 🔍 Currently Exploring
 
-- 🧠 Advanced Machine Learning & Deep Learning  
-- 🌐 Full Stack Development (MERN)  
-- ☁️ Cloud Architecture with AWS  
+- 🤖 Advanced Machine Learning & Deep Learning  
+- 🧩 Full Stack MERN Development  
+- 🌥️ AWS Cloud Architecture
 
 ---
 
 ## 🤝 Leadership & Volunteering
 
-👥 **Core Committee Member, Social Wing**  
-Led impactful college drives, supported shelter efforts, and distributed essentials to 500+ individuals.
+👥 **Core Committee Member – Social Wing**  
+Led impactful community drives, managed shelter donations, and helped 500+ individuals through social outreach.
 
 ---
 
 ## 💃 Hobbies & Interests
+<p align="center">
+  ✈️ Travelling 📚 Reading 💃 Dancing  
+</p>
 
-✈️ Travelling 📚 Reading 💃 Dancing  
-
----
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200"/>
+</p>
 
 ---
 
 ## ⚡ Fun Fact
 
-💬 I love collaborating on tech projects, sharing knowledge, and learning something new every day!
+💬 I love collaborating on creative tech projects, exploring new frameworks, and learning something new every single day!  
+Let’s build something cool together! 🚀
 
 ---
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F76E6E&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+💖;Happy+Coding!+👩‍💻" alt="Typing SVG" />
+</p>
