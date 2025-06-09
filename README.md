@@ -6,9 +6,7 @@
   💼 Aspiring Software Developer | ML Enthusiast | Frontend & Full Stack Explorer
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anshikadwivedi21&label=Profile%20views&color=0e75b6&style=flat" alt="anshikadwivedi21" />
-</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajjaiswar2003&label=Profile%20views&color=0e75b6&style=flat" alt="surajjaiswar2003" /> </p>
 
