@@ -8,6 +8,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajjaiswar2003&label=Profile%20views&color=0e75b6&style=flat" alt="surajjaiswar2003" /> </p>
 
+<h3 align="left">🌐 Socials:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/suraj-jaiswar-7007251b6" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="suraj-jaiswar-7007251b6" /></a>
+</p>
+
 ## 🔧 Technical Skills
 
 - **Languages:** Java, Python, C, HTML/CSS  
