@@ -1,7 +1,9 @@
 <h1 align="center">👋 Hello, I'm Anshika Dwivedi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Computer+Engineering+(Data+Sciences)+Undergrad;Software+Developer+%7C+ML+%7C+Cybersecurity+%7C+Full+Stack;Driven+by+Curiosity%2C+Innovation+%26+Impact;Open+to+Collaboration+%26+Learning+Opportunities" alt="Typing SVG" />
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=007ACC&center=true&vCenter=true&width=440&lines=B.Tech+in+Computer+Engineering;Software+Developer+%7C+ML+%7C+Full+Stack;Cybersecurity+Explorer+%7C+Cloud+Learner;Open+to+Collaborations+%26+Projects" alt="Typing SVG" />
+
 </p>
 
 <p align="center">
@@ -118,5 +120,8 @@
 💬 I’m always up for collaborating on exciting software projects, solving real-world problems, or contributing to open-source!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Let's+Build+Something+Amazing+Together!;Drop+a+Message+Anytime!+%F0%9F%93%A2" alt="Footer Typing" />
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=440&lines=Let's+Build+Something+Amazing!;Drop+a+Message+Anytime+%F0%9F%93%A2" alt="Footer Typing" />
+</p>
+
 </p>
