@@ -123,6 +123,4 @@ Led impactful college drives, supported shelter efforts, and distributed essenti
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Always%20Learning%20📚;Passionate%20about%20Technology%20💻;Let's%20build%20together%20🤝;&font=Fira%20Code&center=true&width=440&height=45&color=9D79F5&vCenter=true&pause=1000&size=22" />
-</p>
+
