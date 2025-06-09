@@ -3,7 +3,7 @@
 <p align="center">
   🎓 <b>B.Tech in Computer Engineering (Data Sciences)</b> <br>
   📍 Navi Mumbai, Maharashtra <br>
-  💼 Aspiring Software Developer | ML Enthusiast | Frontend & Full Stack Explorer
+  💼 Aspiring Software Developer | ML Enthusiast | Frontend & Full Stack Explorer | Cyber Security 
 </p>
 
 <p align="center">
