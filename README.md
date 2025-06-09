@@ -75,15 +75,6 @@ An interactive app for real-time digit recognition using a deep learning model a
 - Organized community outreach programs  
 - Led donation and shelter campaigns benefiting 500+ individuals
 
----
-
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshikadwivedi21&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshikadwivedi21&theme=react&hide_border=true" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshikadwivedi21&layout=compact&theme=react&hide_border=true" alt="Top Languages"/>
-</p>
 
 ---
 
