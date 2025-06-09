@@ -115,20 +115,6 @@ Led impactful college drives, supported shelter efforts, and distributed essenti
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshikadwivedi21&show_icons=true&theme=radical" alt="Anshika's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anshikadwivedi21&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshikadwivedi21&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
 ---
 
 ## ⚡ Fun Fact
