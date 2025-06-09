@@ -13,7 +13,7 @@
 ---
 <h3 align="left">🌐 Socials:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/suraj-jaiswar-7007251b6" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="anshika-dwivedi-319b75220" /></a>
+<a href="https://linkedin.com/in/anshika-dwivedi-319b75220" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="anshika-dwivedi-319b75220" /></a>
 </p>
 
 
