@@ -12,6 +12,10 @@
 
 ---
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surajjaiswar2003" alt="surajjaiswar2003" /></a> </p>
+<h3 align="left">🌐 Socials:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/suraj-jaiswar-7007251b6" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="suraj-jaiswar-7007251b6" /></a>
+</p>
 
 
 ## 🌐 Connect with Me
