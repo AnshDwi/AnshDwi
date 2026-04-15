@@ -28,11 +28,11 @@
 
 ### 🧠 AI Resume Intelligence Platform  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnshDwi&repo=AI-Resume-Intelligence-Platform-&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnshDwi&repo=AI-Resume-Intelligence-Platform-&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <a href="#">
+  <a href="https://ai-resume-intelligence-platform.vercel.app/">
     <img src="https://img.shields.io/badge/🚀 Live Demo-00C6FF?style=for-the-badge"/>
   </a>
   <a href="https://github.com/AnshDwi/AI-Resume-Intelligence-Platform-">
@@ -44,11 +44,11 @@
 
 ### ⚡ Task Management System (Real-Time)  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnshDwi&repo=task-management-system&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnshDwi&repo=task-management-system&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <a href="#">
+  <a href="https://task-management-system-gamma.vercel.app/login">
     <img src="https://img.shields.io/badge/🚀 Live Demo-00C6FF?style=for-the-badge"/>
   </a>
   <a href="https://github.com/AnshDwi/task-management-system">
@@ -58,16 +58,115 @@
 
 ---
 
-### 🍱 Waste Food Management System  
+### 📚 Bibliotek X  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnshDwi&repo=Waste-Food-Management-System&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnshDwi&repo=Bibliotek-X&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <a href="#">
+  <a href="https://bibliotek-x-client-rdltq0apc-anshdwis-projects.vercel.app/login">
     <img src="https://img.shields.io/badge/🚀 Live Demo-00C6FF?style=for-the-badge"/>
   </a>
-  <a href="https://github.com/AnshDwi/Waste-Food-Management-System">
+  <a href="https://github.com/AnshDwi/Bibliotek-X">
+    <img src="https://img.shields.io/badge/💻 Code-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+## 🚀 Projects
+
+### 🧠 AI Resume Intelligence Platform  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnshDwi&repo=AI-Resume-Intelligence-Platform-&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <a href="https://ai-resume-intelligence-platform.vercel.app/">
+    <img src="https://img.shields.io/badge/🚀 Live Demo-00C6FF?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/AnshDwi/AI-Resume-Intelligence-Platform-">
+    <img src="https://img.shields.io/badge/💻 Code-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+### ⚡ Task Management System (Real-Time)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnshDwi&repo=task-management-system&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <a href="https://task-management-system-gamma.vercel.app/login">
+    <img src="https://img.shields.io/badge/🚀 Live Demo-00C6FF?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/AnshDwi/task-management-system">
+    <img src="https://img.shields.io/badge/💻 Code-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+### 📚 Bibliotek X  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnshDwi&repo=Bibliotek-X&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <a href="https://bibliotek-x-client-rdltq0apc-anshdwis-projects.vercel.app/login">
+    <img src="https://img.shields.io/badge/🚀 Live Demo-00C6FF?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/AnshDwi/Bibliotek-X">
+    <img src="https://img.shields.io/badge/💻 Code-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+## 🚀 Projects
+
+### 🧠 AI Resume Intelligence Platform  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnshDwi&repo=AI-Resume-Intelligence-Platform-&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <a href="https://ai-resume-intelligence-platform.vercel.app/">
+    <img src="https://img.shields.io/badge/🚀 Live Demo-00C6FF?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/AnshDwi/AI-Resume-Intelligence-Platform-">
+    <img src="https://img.shields.io/badge/💻 Code-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+### ⚡ Task Management System (Real-Time)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnshDwi&repo=task-management-system&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <a href="https://task-management-system-gamma.vercel.app/login">
+    <img src="https://img.shields.io/badge/🚀 Live Demo-00C6FF?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/AnshDwi/task-management-system">
+    <img src="https://img.shields.io/badge/💻 Code-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+### 📚 Bibliotek X  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnshDwi&repo=Bibliotek-X&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <a href="https://bibliotek-x-client-rdltq0apc-anshdwis-projects.vercel.app/login">
+    <img src="https://img.shields.io/badge/🚀 Live Demo-00C6FF?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/AnshDwi/Bibliotek-X">
     <img src="https://img.shields.io/badge/💻 Code-181717?style=for-the-badge&logo=github"/>
   </a>
 </p>
@@ -76,17 +175,19 @@
 
 ### 🎬 Movie Research App  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnshDwi&repo=movie-research-app&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnshDwi&repo=movie-research-app&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <a href="#">
+  <a href="https://movie-research-app.vercel.app/">
     <img src="https://img.shields.io/badge/🚀 Live Demo-00C6FF?style=for-the-badge"/>
   </a>
   <a href="https://github.com/AnshDwi/movie-research-app">
     <img src="https://img.shields.io/badge/💻 Code-181717?style=for-the-badge&logo=github"/>
   </a>
 </p>
+
+---
 
 ---
 
