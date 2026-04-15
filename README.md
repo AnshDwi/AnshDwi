@@ -8,13 +8,13 @@
 
 <p align="center">
   <a href="mailto:anshikadwivedi2004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://linkedin.com/in/anshika-dwivedi-319b75220">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://github.com/AnshDwi">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
@@ -127,7 +127,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:007ACC,100:00C6FF&height=80&section=header&text=Let's%20Build%20Something%20Amazing&fontSize=20&fontColor=ffffff"/>
+  <b>Let’s Build Something Amazing 🚀</b>
 </p>
 
 ---
@@ -135,5 +135,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:00C6FF&height=120&section=footer"/>
 </p>
-
-
