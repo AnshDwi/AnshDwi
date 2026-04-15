@@ -39,9 +39,6 @@
 ## 🚀 Projects
 
 ### 🧠 AI Resume Intelligence Platform  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnshDwi&repo=AI-Resume-Intelligence-Platform-&theme=tokyonight&v=1"/>
-</p>
 
 <p align="center">
   <a href="https://ai-resume-intelligence-platform.vercel.app/">
@@ -52,12 +49,12 @@
   </a>
 </p>
 
+- AI-powered ATS scoring & job matching  
+- FastAPI backend with ML modules  
+
 ---
 
 ### ⚡ Task Management System (Real-Time)  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnshDwi&repo=task-management-system&theme=tokyonight&v=1"/>
-</p>
 
 <p align="center">
   <a href="https://task-management-system-gamma.vercel.app/login">
@@ -68,12 +65,12 @@
   </a>
 </p>
 
+- Real-time task system using Socket.IO  
+- Kanban workflow + analytics  
+
 ---
 
 ### 📚 Bibliotek X  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnshDwi&repo=Bibliotek-X&theme=tokyonight&v=1"/>
-</p>
 
 <p align="center">
   <a href="https://bibliotek-x-client-rdltq0apc-anshdwis-projects.vercel.app/login">
@@ -84,12 +81,12 @@
   </a>
 </p>
 
+- MERN platform with RBAC  
+- Real-time collaboration + dashboards  
+
 ---
 
 ### 🎬 Movie Research App  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnshDwi&repo=movie-research-app&theme=tokyonight&v=1"/>
-</p>
 
 <p align="center">
   <a href="https://movie-research-app.vercel.app/">
@@ -100,42 +97,43 @@
   </a>
 </p>
 
+- Movie discovery app using TMDB API  
+- Responsive UI with React + Tailwind  
+
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnshDwi&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnshDwi&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AnshDwi&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnshDwi&theme=tokyonight"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnshDwi&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
 
 ---
 
 ## 🤝 Let's Collaborate
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Let's+Collaborate+🚀;Building+Real-World+Projects;Backend+%7C+AI+%7C+Systems;Open+to+Opportunities" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Let's+Collaborate+🚀;Open+to+Projects+%26+Opportunities;Backend+%7C+AI+%7C+Systems;Let's+Build+Something+Impactful" />
 </p>
 
 <p align="center">
   <a href="mailto:anshikadwivedi2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-00C6FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-00C6FF?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://linkedin.com/in/anshika-dwivedi-319b75220">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
 
 <p align="center">
-  <b>Let’s build scalable, secure & impactful systems.</b>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:007ACC,100:00C6FF&height=80&section=header&text=Let's%20Build%20Something%20Amazing&fontSize=20&fontColor=ffffff"/>
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:00C6FF&height=120&section=footer"/>
+</p>
 
 
