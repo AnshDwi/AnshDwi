@@ -1,104 +1,94 @@
-<h1 align="center">Anshika Dwivedi</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Anshika+Dwivedi;Software+Engineer;Full+Stack+Developer;Backend+%7C+AI+Systems;FastAPI+%7C+Node.js+%7C+React" />
+</h1>
 
 <p align="center">
-  Software Engineer • Full Stack Developer • Backend Systems
-</p>
-
-<p align="center">
-  <a href="mailto:anshikadwivedi2004@gmail.com">Email</a> •
-  <a href="https://linkedin.com/in/anshika-dwivedi-319b75220">LinkedIn</a> •
-  <a href="https://github.com/AnshDwi">GitHub</a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:00C6FF&height=120&section=header"/>
 </p>
 
 ---
 
-## About
-
-Software Engineer specializing in **AI systems, scalable backend architectures, and real-time applications**.  
-Experienced in building **production-grade APIs, optimizing performance, and designing secure systems**.
-
----
-
-## Tech Stack
-
-**Languages**  
-Java • Python • JavaScript  
-
-**Frontend**  
-React • Tailwind CSS  
-
-**Backend**  
-Node.js • FastAPI  
-
-**Database**  
-MongoDB • MySQL  
-
-**Tools & DevOps**  
-Docker • Git • Postman  
-
-**Concepts**  
-REST APIs • Microservices • RBAC • JWT • CI/CD  
-
----
-
-## Projects
-
-### AI Resume Intelligence Platform
-- Built AI-powered **ATS scoring + job matching system**
-- Designed scalable backend using **FastAPI**
-- Implemented modules for feedback, recommendations, and interview prep
-
----
-
-### TaskFlow Pro (Real-Time System)
-- Developed real-time task manager using **Socket.IO**
-- Designed Kanban workflow + analytics dashboard
-- Optimized backend performance and database queries
-
----
-
-### Bibliotek X
-- MERN-based learning platform with **RBAC**
-- Integrated analytics and adaptive features
-- Implemented real-time collaboration
-
----
-
-### Movie Research App
-- Built movie discovery platform using **TMDB API**
-- Designed responsive UI using React + Tailwind
-- Optimized API handling and UX
-
----
-
-## Experience
-
-**Meta Infotech Limited — Technical Associate Trainee**  
-- Secured access for 100+ users using Zscaler  
-- Implemented SIEM monitoring and SAML authentication  
-- Managed virtual infrastructure using Proxmox  
-
-**Swan Solutions — Full Stack Developer Intern**  
-- Built Waste Food Management platform  
-- Implemented authentication + RBAC  
-- Improved performance and UI responsiveness  
-
----
-
-## Focus Areas
-
-- Backend Engineering (FastAPI, Node.js)
-- System Design & Performance Optimization
-- Secure Application Development
-- Real-Time Systems
-
----
-
-## GitHub Stats
+## 🚀 About
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnshDwi&show_icons=true&hide_border=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=007ACC&center=true&vCenter=true&width=600&lines=Building+AI+Systems+%26+Scalable+Backends;Real-Time+Applications+%7C+Secure+Architectures;FastAPI+%7C+Node.js+%7C+React+Developer" />
 </p>
+
+---
+
+## ⚡ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,fastapi,mongodb,mysql,docker,git,aws&theme=dark" />
+</p>
+
+---
+
+## 🚀 Projects
+
+### 🧠 AI Resume Intelligence Platform  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnshDwi&repo=AI-Resume-Intelligence-Platform-&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/🚀 Live Demo-00C6FF?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/AnshDwi/AI-Resume-Intelligence-Platform-">
+    <img src="https://img.shields.io/badge/💻 Code-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+### ⚡ Task Management System (Real-Time)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnshDwi&repo=task-management-system&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/🚀 Live Demo-00C6FF?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/AnshDwi/task-management-system">
+    <img src="https://img.shields.io/badge/💻 Code-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+### 🍱 Waste Food Management System  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnshDwi&repo=Waste-Food-Management-System&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/🚀 Live Demo-00C6FF?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/AnshDwi/Waste-Food-Management-System">
+    <img src="https://img.shields.io/badge/💻 Code-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+### 🎬 Movie Research App  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnshDwi&repo=movie-research-app&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/🚀 Live Demo-00C6FF?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/AnshDwi/movie-research-app">
+    <img src="https://img.shields.io/badge/💻 Code-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
 
 
 ## ✨ Let’s Collaborate!
